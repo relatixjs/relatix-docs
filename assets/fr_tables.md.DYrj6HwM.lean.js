@@ -1,0 +1,1 @@
+import{_ as n,c as a,o as l,ae as e}from"./chunks/framework.oxQ2x61N.js";const C=JSON.parse('{"title":"Relatix","description":"","frontmatter":{},"headers":[],"relativePath":"fr/tables.md","filePath":"fr/tables.md"}'),p={name:"fr/tables.md"};function o(t,s,c,r,D,y){return l(),a("div",null,s[0]||(s[0]=[e("",125)]))}const d=n(p,[["render",o]]);export{C as __pageData,d as default};

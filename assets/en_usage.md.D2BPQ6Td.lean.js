@@ -1,0 +1,1 @@
+import{_ as n,c as a,o as l,ae as p}from"./chunks/framework.oxQ2x61N.js";const C=JSON.parse('{"title":"Model Usage","description":"","frontmatter":{},"headers":[],"relativePath":"en/usage.md","filePath":"en/usage.md"}'),o={name:"en/usage.md"};function e(t,s,c,r,D,y){return l(),a("div",null,s[0]||(s[0]=[p("",85)]))}const d=n(o,[["render",e]]);export{C as __pageData,d as default};
