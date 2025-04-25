@@ -9,7 +9,7 @@ hero:
       link: /en/intro # Assuming '/en/intro' is the intro page link
     - theme: outline
       text: "GitHub"
-      link: https://github.com/your-org/relatix # Replace with actual GitHub link
+      link: https://github.com/relatix-js/relatix # Replace with actual GitHub link
 features:
   - title: "🔒 Strong Type Safety"
     details: "Catch data structure and reference errors at compile time, not runtime. Zero hidden `any` for reliable code."
