@@ -5,6 +5,8 @@ export default defineConfig({
   description: "Relatix technical docs",
   base: "/relatix-docs/",
   themeConfig: {
+    logo: "relatix-logo.png",
+
     sidebar: [
       {
         text: "Relatix",

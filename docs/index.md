@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-  name: "relatix"
-  tagline: "Manage relational data effortlessly and safely in TypeScript"
+  name: "Relatix"
+  text: "Manage relational data effortlessly and safely in TypeScript"
   actions:
     - theme: brand
       text: "Get Started"
