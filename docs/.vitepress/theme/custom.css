@@ -1,0 +1,15 @@
+
+
+:root {
+  --vp-code-block-bg: #161618; /* (optional) darker background */
+  --vp-c-white: rgba(238, 238, 238, 0.656);
+  --vp-c-black: #000000;
+}
+/* html.dark body {
+  font-weight: 600;
+} */
+
+
+pre code {
+    font-weight: 700; /* Increase the weight as desired */
+}
