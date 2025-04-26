@@ -5,6 +5,7 @@ dist/
 .cache/
 
 # VitePress build output
+docs/.vitepress/cache
 .vitepress/dist/
 
 # Logs

@@ -4,6 +4,12 @@ export default defineConfig({
   title: "Relatix",
   description: "Relatix technical docs",
   base: "/relatix-docs/",
+  head: [
+    [
+      "link",
+      { rel: "icon", type: "image/x-icon", href: "/relatix-docs/favicon.ico" },
+    ],
+  ],
   themeConfig: {
     logo: "relatix-logo.png",
 
